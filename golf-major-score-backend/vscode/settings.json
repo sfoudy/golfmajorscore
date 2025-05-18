@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "/Users/stephenf/Desktop/golfmajorscore/golf-major-score-backend/venv/lib/python3.13/site-packages/fastapi/__init__.py"
+    ]
+  }
+  

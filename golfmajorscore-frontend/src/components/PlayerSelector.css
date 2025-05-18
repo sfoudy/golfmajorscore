@@ -1,0 +1,21 @@
+.player-selector {
+    margin: 1rem 0;
+  }
+  
+  .team-card {
+    background: #f5f5f5;
+    border-radius: 8px;
+    padding: 1rem;
+    margin: 1rem 0;
+  }
+  
+  .select__control {
+    border: 2px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .select__multi-value {
+    background: #e3f2fd;
+    border-radius: 4px;
+  }
+  
